@@ -2,55 +2,53 @@
 title: ONI Archive Node
 ---
 ```text
-UNSC UPLINK..........CONNECTED
-ONI TERMINAL.........ACTIVE
-CLEARANCE............SILVER-5
-AI MONITOR...........ONLINE
+UNSC FLEETCOM UPLINK........CONNECTED
+ONI SECTION III TERMINAL....ACTIVE
+SECURITY CLEARANCE..........SILVER-5
+AI MONITOR..................ONLINE
 ```
 
-# OFFICE OF NAVAL INTELLIGENCE  
+# OFFICE OF NAVAL INTELLIGENCE
+
 ## SECTION III // BLACK ARCHIVE
 
-> [!warning]
-> SECURITY NOTICE  
+> [!warning] CLASSIFIED MATERIAL
 > Unauthorized access subject to prosecution under UNSC Naval Security Code.
 
-> [!danger]
-> Portions of this archive remain REDACTED by order of Section III.
+> [!danger] REDACTED NOTICE
+> Portions of this archive remain restricted by order of Section III.
 
 ---
 
-## TERMINAL DIRECTORY
+# TERMINAL DIRECTORY
 
-### 01 // PERSONNEL DOSSIERS
-ACCESS: [[UNSC Personnel Dossiers]]  
-ACCESS: [[Human Career Paths]]  
-ACCESS: [[Known Political Actors]]
+## 01 // PERSONNEL DOSSIERS
+ACCESS: [[UNSC Occupational Specialties]]  
+ACCESS: [[Known Powers and Factions]]
 
 ---
 
-### 02 // STRATEGIC INTELLIGENCE
-ACCESS: [[Strategic Intelligence Timeline]]  
+## 02 // STRATEGIC INTELLIGENCE
+ACCESS: [[Timeline]]  
 ACCESS: [[Overview]]  
 ACCESS: [[Threat Assessments]]
 
 ---
 
-### 03 // OPERATIONAL THEATER
-ACCESS: [[Session Reports]]  
+## 03 // OPERATIONAL THEATER
 ACCESS: [[Mission Briefings]]  
-ACCESS: [[Recovered Intelligence]]
+ACCESS: [[Session Reports]]
 
 ---
 
-### 04 // RESTRICTED ARCHIVES
+## 04 // RESTRICTED ARCHIVES
+ACCESS: [[Recovered Intelligence]]  
 ACCESS: [[Blacksite Records]]  
-ACCESS: [[Redacted Files]]  
 ACCESS: [[Section III Memoranda]]
 
 ---
 
-## COMMAND INTERFACE
+# COMMAND INTERFACE
 
 ```text
 > open strategic_intelligence
@@ -61,7 +59,7 @@ ACCESS: [[Section III Memoranda]]
 
 ---
 
-## ACTIVE INTELLIGENCE ALERTS
+# ACTIVE INTELLIGENCE ALERTS
 
 - Colonial unrest escalating  
 - Covenant contact under review  
@@ -70,13 +68,13 @@ ACCESS: [[Section III Memoranda]]
 
 ---
 
-## ARCHIVE STATUS
+# ARCHIVE STATUS
 
 ```text
-ACCESS NODE STATUS....ONLINE
-TACTICAL GRID.........LINKED
-ARCHIVE INTEGRITY.....STABLE
-LAST BREACH...........REDACTED
+ACCESS NODE STATUS.....ONLINE
+TACTICAL GRID..........LINKED
+ARCHIVE INTEGRITY......STABLE
+LAST BREACH............REDACTED
 ```
 
 ---
@@ -86,6 +84,16 @@ LAST BREACH...........REDACTED
 
 ---
 
-```text
-Per Mare, Per Terram, Per Constellatum
-```
+## ORIENTATION PROTOCOL
+
+Recommended review order:
+
+1. [[Overview]]  
+2. [[UNSC Occupational Specialties]]  
+3. [[Known Powers and Factions]]  
+4. [[Timeline]]  
+5. [[Threat Assessments]]
+
+---
+
+> *Per Mare, Per Terram, Per Constellatum.*
