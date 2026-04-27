@@ -9,67 +9,83 @@ AI MONITOR...........ONLINE
 ```
 
 # OFFICE OF NAVAL INTELLIGENCE  
-## SECTION III ARCHIVE TERMINAL
+## SECTION III // BLACK ARCHIVE
 
 > [!warning]
-> **CLASSIFIED MATERIAL**  
+> SECURITY NOTICE  
 > Unauthorized access subject to prosecution under UNSC Naval Security Code.
 
 > [!danger]
-> Portions of this archive remain **REDACTED** by order of Section III.
+> Portions of this archive remain REDACTED by order of Section III.
 
 ---
 
-## 🛰 DATABASE ACCESS
+## TERMINAL DIRECTORY
 
-### Personnel Dossiers
+### 01 // PERSONNEL DOSSIERS
+ACCESS: [[UNSC Personnel Dossiers]]  
 ACCESS: [[Human Career Paths]]  
-ACCESS: [[Factions]]
+ACCESS: [[Known Political Actors]]
 
-### Strategic Intelligence Files
-ACCESS: [[Timeline]]  
-ACCESS: [[Overview]]
+---
 
-### Operational Theater Reports
-ACCESS: [[Session Reports]]  
-ACCESS: [[Mission Briefings]]  
+### 02 // STRATEGIC INTELLIGENCE
+ACCESS: [[Strategic Intelligence Timeline]]  
+ACCESS: [[Overview]]  
 ACCESS: [[Threat Assessments]]
 
 ---
 
-## ⚠ ACTIVE INTELLIGENCE ALERTS
-
-- Colonial unrest escalating  
-- Covenant contact under review  
-- ONI black-site assets mobilized  
-- Priority directives remain in effect
+### 03 // OPERATIONAL THEATER
+ACCESS: [[Session Reports]]  
+ACCESS: [[Mission Briefings]]  
+ACCESS: [[Recovered Intelligence]]
 
 ---
 
-## 📁 RESTRICTED FILES
-
-Recovered materials may contain:
-
-- Fragmentary military records  
-- Contradictory intelligence  
-- Unauthorized testimony  
-- Black-site references  
-- Redacted operational logs
+### 04 // RESTRICTED ARCHIVES
+ACCESS: [[Blacksite Records]]  
+ACCESS: [[Redacted Files]]  
+ACCESS: [[Section III Memoranda]]
 
 ---
 
-> [!info]
-> New personnel should begin with [[Overview]] before reviewing strategic records.
-
----
+## COMMAND INTERFACE
 
 ```text
-ACCESS NODE STATUS.........ONLINE
-ARCHIVE INTEGRITY..........STABLE
-TACTICAL NETWORK...........LINKED
-LAST UPLINK................SUCCESSFUL
+> open strategic_intelligence
+> load threat_assessments
+> access blacksite_records
+> awaiting command...
 ```
 
 ---
 
-> “Per Mare, Per Terram, Per Constellatum.”
+## ACTIVE INTELLIGENCE ALERTS
+
+- Colonial unrest escalating  
+- Covenant contact under review  
+- Priority directives remain active  
+- ONI surveillance assets mobilized
+
+---
+
+## ARCHIVE STATUS
+
+```text
+ACCESS NODE STATUS....ONLINE
+TACTICAL GRID.........LINKED
+ARCHIVE INTEGRITY.....STABLE
+LAST BREACH...........REDACTED
+```
+
+---
+
+> [!info]
+> New operatives should begin with [[Overview]] before reviewing restricted intelligence.
+
+---
+
+```text
+Per Mare, Per Terram, Per Constellatum
+```
