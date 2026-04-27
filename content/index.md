@@ -1,3 +1,6 @@
+---
+title: ONI Archive Node
+---
 ```text
 UNSC FLEETCOM UPLINK........CONNECTED
 ONI SECTION III TERMINAL....ACTIVE
