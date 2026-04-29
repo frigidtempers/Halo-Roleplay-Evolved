@@ -24,15 +24,17 @@ Major Covenant expansion begins.
 Lekgolo incorporated into the Covenant.
 
 ```
-KNOWN PREHISTORIC DATA.....INCOMPLETEFOREUNNER RECORDS..........FRAGMENTARYSOURCE RELIABILITY.........PARTIAL
+KNOWN PREHISTORIC DATA.....INCOMPLETE
+FOREUNNER RECORDS..........FRAGMENTARY
+SOURCE RELIABILITY.........PARTIAL
 ```
 
 ---
 
-## HUMAN INTERPLANETARY ERA
+## HUMAN EXPANSION ERA
 
 **2080 CE**  
-Permanent off-world human habitation established. Beginning of the Interplanetary Era.
+Permanent off-world human habitation established. Beginning of the Expansion Era.
 
 **2160 CE**  
 Jovian Moons Campaign begins. Opening of the Interplanetary Wars.
@@ -79,7 +81,7 @@ Early colonial unrest emerges.
 
 ---
 
-## AGE OF INSURRECTION
+## INSURRECTION CONFLICT
 
 **2490 CE**  
 Large-scale Outer Colony unrest escalates.
@@ -103,7 +105,9 @@ SPARTAN-II Program initiated.
 Emergency navigation security doctrine drafted, precursor to the Cole Protocol.
 
 ```
-INSURRECTION STATUS........ESCALATINGSPECIAL PROJECTS...........ACTIVECOLONIAL STABILITY.........DEGRADING
+INSURRECTION STATUS........ESCALATING
+SPECIAL PROJECTS...........ACTIVE
+COLONIAL STABILITY.........DEGRADING
 ```
 
 ---
@@ -135,7 +139,9 @@ Ark Campaign.
 Glassing of Calder.
 
 ```
-WAR STATUS.................TERMINATEDCOVENANT UNITY.............COLLAPSEDCOLONY LOSSES..............SEVERE
+CRISIS STATUS.................RESOLVED
+COVENANT UNITY.............COLLAPSED
+COLONY LOSSES..............SEVERE
 ```
 
 ---
@@ -160,8 +166,8 @@ Second Ark Conflict. Renewed Banished hostilities at the Ark.
 **2560 CE**  
 Zeta Halo Conflict. Banished occupation of Installation 07 contested by surviving UNSC forces.
 
-Current campaign era.
-
 ```
-CURRENT ERA........2560 CEARCHIVE REVISION...12.4.77STATUS.............ACTIVE
+CURRENT ERA........2560 
+CEARCHIVE REVISION...12.4.77
+STATUS.............ACTIVE
 ```

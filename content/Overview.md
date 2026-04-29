@@ -17,7 +17,11 @@ Common sentiment recorded among local populations:
 Interpretation: resentment present, insurgent activity minimal.
 
 ```
-REGIONAL STATUS............FRAGILEUNSC PRESENCE..............LIMITEDINTELLIGENCE COVERAGE......INCOMPLETEALLIED COOPERATION.........CONDITIONALBANISHED ACTIVITY..........CONFIRMED
+REGIONAL STATUS............FRAGILE
+UNSC PRESENCE..............LIMITED
+INTELLIGENCE COVERAGE......INCOMPLETE
+ALLIED COOPERATION.........CONDITIONAL
+BANISHED ACTIVITY..........CONFIRMED
 ```
 
 ---
@@ -25,7 +29,14 @@ REGIONAL STATUS............FRAGILEUNSC PRESENCE..............LIMITEDINTELLIGENCE
 ## PRIMARY SYSTEMS
 
 ```
-HIGHMARK........Regional Anchor WorldMERIDIAN........Industrial Support HubCAEDMON.........Agricultural ColonyVIGILANCE.......Forward Defense SystemDRIFT...........Restricted Survey InterestPORT LOWELL.....Independent Trade PortCALDER..........Glassed World / RestrictedK-081/B.........Anomalous Region
+HIGHMARK........Regional Anchor World
+MERIDIAN........Industrial Support Hub
+CAEDMON.........Agricultural Colony
+VIGILANCE.......Forward Defense System
+DRIFT...........Restricted Survey Interest
+PORT LOWELL.....Independent Trade Port
+CALDER..........Glassed World / Restricted
+K-081/B.........Anomalous Region
 ```
 
 **Highmark (Kestrel)**  
@@ -61,7 +72,9 @@ Further inquiries require higher clearance.
 Regional security remains stable but strained.
 
 ```
-THREAT VECTOR 01........Banished Raiding ActivityTHREAT VECTOR 02........Colonial Political FrictionTHREAT VECTOR 03........Calder / K-081/B Anomalies
+THREAT VECTOR 01........Banished Raiding Activity
+THREAT VECTOR 02........Colonial Political Friction
+THREAT VECTOR 03........Calder / K-081/B Anomalies
 ```
 
 Threat conditions include:
@@ -88,7 +101,9 @@ Public acceptance among colonial populations remains inconsistent.
 Diplomatic sensitivity advised.
 
 ```
-ALLIANCE STATUS............FUNCTIONALPUBLIC SENTIMENT...........VOLATILEESCALATION RISK............MODERATE
+ALLIANCE STATUS............FUNCTIONAL
+PUBLIC SENTIMENT...........VOLATILE
+ESCALATION RISK............MODERATE
 ```
 
 ---
@@ -98,7 +113,9 @@ ALLIANCE STATUS............FUNCTIONALPUBLIC SENTIMENT...........VOLATILEESCALATI
 Regional deterrence centered around elements of Kestrel Subsector Command.
 
 ```
-FLAGSHIP........UNSC IF THEY CAME TO HEAR ME BEGCLASS...........Marathon-class Heavy CruiserSTATUS..........ACTIVE
+FLAGSHIP........UNSC IF THEY CAME TO HEAR ME BEG
+CLASS...........Marathon-class Heavy Cruiser
+STATUS..........ACTIVE
 ```
 
 Operational readiness remains satisfactory.
@@ -114,5 +131,7 @@ Military resources remain limited.
 Political stability remains conditional.
 
 ```
-STABILITY........MANAGEABLERISK INDEX.......ELEVATEDOUTLOOK..........UNCERTAIN
+STABILITY........MANAGEABL
+ERISK INDEX.......ELEVATED
+OUTLOOK..........UNCERTAIN
 ```
