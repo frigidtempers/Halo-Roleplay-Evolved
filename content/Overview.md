@@ -1,4 +1,4 @@
-# SECTION III // OUTER COLONY SURVEY
+# OUTER COLONY SURVEY
 
 **FILE:** Kestrel Subsector Overview  
 **CLEARANCE:** Restricted  

@@ -1,4 +1,4 @@
-# SECTION I // GALACTIC HISTORICAL TIMELINE
+# GALACTIC HISTORICAL TIMELINE
 
 **FILE:** Cross-Cultural Chronology  
 **CLEARANCE:** Educational / Restricted  
