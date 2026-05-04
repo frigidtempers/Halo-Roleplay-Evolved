@@ -37,7 +37,7 @@ ACCESS: [[Threat Assessments]]
 ---
 
 ## 03 // OPERATIONAL THEATER
-ACCESS: [[Mission Briefings]]  
+ACCESS: [[Mission Briefings]]
 ACCESS: [[Session Reports]]
 ACCESS: [[Armory]]
 
