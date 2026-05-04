@@ -16,7 +16,7 @@
 
 ---
 
-## **Failed Candidacy
+## **Failed Candidacy**
 
 If the qualification roll fails, the Traveller was considered but not selected.
 
