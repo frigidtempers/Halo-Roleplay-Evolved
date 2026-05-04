@@ -41,15 +41,17 @@ Use Advanced Poly Carapace (TL13)
         Self-Sealing (TL11)
         Computer Weave (TL13)
         Coolant Rig (TL8)
-Optional:
-    Camouflage, Basic (TL3)
-    Chameleon, IR (TL12)
+
+    Optional:
+        Camouflage, Basic (TL3)
+        Chameleon, IR (TL12)
 ```
 ### Semi-Powered Infiltration Armor (SPI)
 
 > [!note] INFILTRATION PLATFORM  
 > SPI armor prioritizes stealth, mobility, and tactical concealment over sustained durability. Designed for covert operations.
 
+```
 Use Advanced Poly Carapace (TL13)
     Add:
         Body Camera (TL10)
@@ -65,7 +67,8 @@ Use Advanced Poly Carapace (TL13)
         Coolant Rig (TL8)
         Extended Life Support (TL10)
         Additional Padding (TL1)
-            Does not impose the usual DEX penalty when used with SPI armor```
+            Does not impose the usual DEX penalty when used with SPI armor
+```
 ### MJOLNIR Powered Assault Armor
 
 > [!danger] SPARTAN-CLASS SYSTEM  
