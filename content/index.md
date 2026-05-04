@@ -24,7 +24,7 @@ AI MONITOR..................ONLINE
 
 ## 01 // PERSONNEL DOSSIERS
 ACCESS: [[UNSC Occupational Specialties]]  
-ACCESS: [[Known Powers and Factions]]
+ACCESS: [[Known Powers and Factions]]  
 ACCESS: [[Spartan Branch Information]]
 
 ---
