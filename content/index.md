@@ -25,6 +25,7 @@ AI MONITOR..................ONLINE
 ## 01 // PERSONNEL DOSSIERS
 ACCESS: [[UNSC Occupational Specialties]]  
 ACCESS: [[Known Powers and Factions]]
+ACCESS: [[Spartan Branch Information]]
 
 ---
 
@@ -38,6 +39,7 @@ ACCESS: [[Threat Assessments]]
 ## 03 // OPERATIONAL THEATER
 ACCESS: [[Mission Briefings]]  
 ACCESS: [[Session Reports]]
+ACCESS: [[Armory]]
 
 ---
 
@@ -89,10 +91,11 @@ LAST BREACH............REDACTED
 Recommended review order:
 
 1. [[Overview]]  
-2. [[UNSC Occupational Specialties]]  
-3. [[Known Powers and Factions]]  
-4. [[Timeline]]  
-5. [[Threat Assessments]]
+2. [[UNSC Occupational Specialties]]
+3. [[Armory]]
+4. [[Known Powers and Factions]]  
+5. [[Timeline]]  
+6. [[Threat Assessments]]
 
 ---
 

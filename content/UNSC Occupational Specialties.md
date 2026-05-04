@@ -69,6 +69,8 @@ Entry into the Spartan career is possible only through exceptional circumstances
 
 Selection normally represents induction into the SPARTAN-IV program unless otherwise determined by the Referee.
 
+If Qualification is successful proceed to the [[Spartan Branch Information]] page.
+
 ---
 
 ## SPARTAN CANDIDACY
