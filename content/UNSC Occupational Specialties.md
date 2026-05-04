@@ -88,7 +88,7 @@ This represents identification and recruitment into Spartan Branch.
 
 To enter the Spartan career, make a qualification roll:
 
-**END 8+**
+**ANY CHARACTERISTIC 8+**
 
 Modifiers:
 

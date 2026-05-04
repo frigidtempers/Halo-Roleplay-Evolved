@@ -7,11 +7,27 @@
 
 ## **Qualification**
 
-|Requirement|Roll|
-|---|---|
-|Any Characteristic 8+|2D|
-|DM+1 if Rank 1+ in previous career||
-|DM-2 if Age 30+||
+| Requirement                                                         | Roll |
+| ------------------------------------------------------------------- | ---- |
+| END  8+                                                             | 2D   |
+| DM+1 if STR 8+                                                      |      |
+| DM+1 if INT 8+                                                      |      |
+| DM +1 if prior service in Marine Corps, ODST, Navy, Agent, or Scout |      |
+
+---
+
+## **Failed Candidacy
+
+If the qualification roll fails, the Traveller was considered but not selected.
+
+Choose one:
+
+- Gain a Contact in Spartan Branch
+- Gain Athletics 0
+- Gain Gun Combat 0
+- Gain Recon 0
+
+Then choose another career normally.
 
 ---
 
