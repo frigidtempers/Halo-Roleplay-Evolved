@@ -14,11 +14,16 @@
 
 ```
 Use Lightweight Poly Carapace (TL12)
-	Add Body Camera (TL10), Friend or Foe HUD (TL11), Helmet Lights (TL8), Eye Protection (TL6), Computer Weave (TL11)
+    Add:
+        Body Camera (TL10)
+        Friend or Foe HUD (TL11)
+        Helmet Lights (TL8)
+        Eye Protection (TL6)
+        Computer Weave (TL11)
 
-Optional:
-    Camouflage, Basic (TL3)
-        Note: Represents standard uniform patterning; provides no significant bonus without appropriate terrain
+    Optional:
+        Camouflage, Basic (TL3)
+            Note: Represents standard uniform patterning; provides no significant bonus without appropriate terrain
 ```
 ### ODST Battle Dress Uniform
 
@@ -27,8 +32,15 @@ Optional:
 
 ```
 Use Advanced Poly Carapace (TL13)
-    Add Body Camera (TL10), Friend or Foe HUD (TL11), Helmet Lights (TL8), Eye Protection (TL6), Environment Reader (TL8), Self-Sealing (TL11), Computer Weave (TL13), Coolant Rig (TL8)
-
+    Add:
+        Body Camera (TL10)
+        Friend or Foe HUD (TL11)
+        Helmet Lights (TL8)
+        Eye Protection (TL6)
+        Environment Reader (TL8)
+        Self-Sealing (TL11)
+        Computer Weave (TL13)
+        Coolant Rig (TL8)
 Optional:
     Camouflage, Basic (TL3)
     Chameleon, IR (TL12)
@@ -38,15 +50,22 @@ Optional:
 > [!note] INFILTRATION PLATFORM  
 > SPI armor prioritizes stealth, mobility, and tactical concealment over sustained durability. Designed for covert operations.
 
-```
 Use Advanced Poly Carapace (TL13)
-    Add Body Camera (TL10), Friend or Foe HUD (TL11), Helmet Lights (TL8), Eye Protection (TL6),
-    Camouflage, Basic (TL3), Chameleon, Full Motion (TL12), Chameleon, IR (TL12),
-    Environment Reader (TL8), Self-Sealing (TL11), Computer Weave (TL13),
-    Coolant Rig (TL8), Extended Life Support (TL10),
-    Additional Padding (TL1)
-        Does not impose the usual DEX penalty when used with SPI armor
-```
+    Add:
+        Body Camera (TL10)
+        Friend or Foe HUD (TL11)
+        Helmet Lights (TL8)
+        Eye Protection (TL6)
+        Camouflage, Basic (TL3)
+        Chameleon, Full Motion (TL12)
+        Chameleon, IR (TL12)
+        Environment Reader (TL8)
+        Self-Sealing (TL11)
+        Computer Weave (TL13)
+        Coolant Rig (TL8)
+        Extended Life Support (TL10)
+        Additional Padding (TL1)
+            Does not impose the usual DEX penalty when used with SPI armor```
 ### MJOLNIR Powered Assault Armor
 
 > [!danger] SPARTAN-CLASS SYSTEM  
@@ -54,14 +73,22 @@ Use Advanced Poly Carapace (TL13)
 
 ```
 Use Battle Dress, Basic (TL13)
-    Add Environment Protection (Corrosive)(TL13), Environment Protection (Insidious)(TL13),
-    Sensor Suite (+1)(TL13),
-    Body Camera (TL10), Friend or Foe HUD (TL11), Helmet Lights (TL8), Eye Protection (TL6),
-    Camouflage, Basic (TL3), Chameleon, IR (TL12),
-    Environment Reader (TL8), Self-Sealing (TL11), Automedikit (TL12)
+    Add:
+        Environment Protection (Corrosive) (TL13)
+        Environment Protection (Insidious) (TL13)
+        Sensor Suite (+1) (TL13)
+        Body Camera (TL10)
+        Friend or Foe HUD (TL11)
+        Helmet Lights (TL8)
+        Eye Protection (TL6)
+        Camouflage, Basic (TL3)
+        Chameleon, IR (TL12)
+        Environment Reader (TL8)
+        Self-Sealing (TL11)
+        Automedikit (TL12)
 
-Restriction:
-    Requires Spartan Augmentations and Neural Interface to operate
+    Restriction:
+        Requires Spartan Augmentations and Neural Interface to operate
 ```
 
 ---
