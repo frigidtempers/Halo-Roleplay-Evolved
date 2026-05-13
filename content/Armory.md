@@ -217,7 +217,7 @@ Use Light Shotgun
 > [!note] STANDARD SANGHEILI COMBAT SYSTEM  
 > Covenant combat harnesses integrate personal shielding systems, environmental protections, and advanced tactical displays.
 
-```text
+```
 Use Combat Armor (TL13)
     Add:
         Environment Reader (TL8)
@@ -232,7 +232,7 @@ Use Combat Armor (TL13)
 > [!note] BANISHED ASSAULT ARMOR  
 > Jiralhanae armor emphasizes intimidation, durability, and frontal assault capability over mobility or precision.
 
-```text
+```
 Use Combat Armor (TL12)
     Add:
         Additional Padding (TL1)
@@ -247,7 +247,7 @@ Use Combat Armor (TL12)
 > [!note] LIGHT SKIRMISHER EQUIPMENT  
 > Kig-Yar commonly utilize lightweight armor systems designed for mobility and ranged engagements.
 
-```text
+```
 Use Cloth Armor (TL10)
     Add:
         Environment Reader (TL8)
@@ -260,7 +260,7 @@ Use Cloth Armor (TL10)
 > [!note] MASS-ISSUE INFANTRY EQUIPMENT  
 > Unggoy combat harnesses are designed around methane support systems and low-cost battlefield deployment.
 
-```text
+```
 Use Vacc Suit (TL10)
     Add:
         Environment Reader (TL8)
@@ -274,7 +274,7 @@ Use Vacc Suit (TL10)
 > [!danger] HEAVY ASSAULT ENTITY  
 > Mgalekgolo combat forms utilize bonded armor plating and integrated assault weapon systems.
 
-```text
+```
 Use Heavy Battle Dress (TL13)
     Add:
         Environment Protection (Vacuum) (TL12)
@@ -294,7 +294,7 @@ Use Heavy Battle Dress (TL13)
 > [!note] STANDARD COVENANT INFANTRY WEAPON  
 > Rapid-fire plasma weapon designed for sustained close- to medium-range engagements.
 
-```text
+```
 Use Laser Carbine (TL11)
 	Add Auto 3
 ```
@@ -306,7 +306,7 @@ Use Laser Carbine (TL11)
 > [!note] LIGHT DIRECTED-ENERGY SIDEARM  
 > Standard Covenant sidearm capable of both rapid fire and shield disruption.
 
-```text
+```
 Use Laser Pistol
 ```
 
@@ -317,7 +317,7 @@ Use Laser Pistol
 > [!danger] CRYSTALLINE TRACKING WEAPON  
 > Fires crystalline projectiles that embed into targets before detonating.
 
-```text
+```
 Use Assault Pistol
     Add Smart
     Add AP 2
@@ -331,7 +331,7 @@ Use Assault Pistol
 > [!note] PRECISION COVENANT RIFLE  
 > Covenant marksman weapon utilizing radioactive crystalline ammunition.
 
-```text
+```
 Use Gauss Rifle
     Add Scope
     Remove Auto (Semi-Auto only)
@@ -345,7 +345,7 @@ Use Gauss Rifle
 > [!danger] CLOSE-COMBAT ENERGY WEAPON  
 > Elite close-quarters weapon utilizing contained plasma blades.
 
-```text
+```
 Use Arc-Field Weapon
 ```
 
@@ -356,7 +356,7 @@ Use Arc-Field Weapon
 > [!note] JIRALHANAE SPIKE WEAPON  
 > Fires large metal spikes using brute-force ballistic propulsion.
 
-```text
+```
 Use Gauss Submachine Gun
     Add AP 2
     Add Bulky
@@ -369,7 +369,7 @@ Use Gauss Submachine Gun
 > [!note] HEAVY SIDEARM  
 > Banished firearm designed for brutal close-range stopping power.
 
-```text
+```
 Use Heavy Revolver
     Add AP 2
 ```
@@ -381,7 +381,7 @@ Use Heavy Revolver
 > [!danger] HEAVY SHOCK WEAPON  
 > Massive melee weapon associated with Jiralhanae warlords and Banished shock troops.
 
-```text
+```
 Use Gravity Hammer
 ```
 
