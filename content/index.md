@@ -43,10 +43,10 @@ ACCESS: [[Armory]]
 
 ---
 
-## 04 // RESTRICTED ARCHIVES
+## 04 // INFORMATION ARCHIVES
 ACCESS: [[Recovered Intelligence]]  
-ACCESS: [[Blacksite Records]]  
-ACCESS: [[Section III Memoranda]]
+ACCESS: [[Hostile Entities Field Guide]]  
+ACCESS: [[Glossary]]
 
 ---
 

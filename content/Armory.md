@@ -201,3 +201,310 @@ Use Light Shotgun
 > Weapon accessories may be applied at the Referee’s discretion. Modular weapon systems remain common across frontier deployments.
 
 ---
+# Covenant & Banished Armory
+
+> [!warning] RESTRICTED MATERIAL  
+> The following archive contains recovered intelligence regarding Covenant-era and Banished weapon systems. Information may be incomplete, field-modified, or inaccurate.
+
+> [!danger] ONI ADVISORY  
+> Unauthorized possession of alien weaponry is prohibited under UNSC Naval Security Code.
+
+---
+# Covenant Infantry Armor
+
+## Sangheili Combat Harness
+
+> [!note] STANDARD SANGHEILI COMBAT SYSTEM  
+> Covenant combat harnesses integrate personal shielding systems, environmental protections, and advanced tactical displays.
+
+```text
+Use Combat Armor (TL13)
+    Add:
+        Environment Reader (TL8)
+        Self-Sealing (TL11)
+        Computer Weave (TL13)
+        Environment Protection (Vacuum) (TL12)
+```
+
+---
+## Jiralhanae Combat Armor
+
+> [!note] BANISHED ASSAULT ARMOR  
+> Jiralhanae armor emphasizes intimidation, durability, and frontal assault capability over mobility or precision.
+
+```text
+Use Combat Armor (TL12)
+    Add:
+        Additional Padding (TL1)
+        Helmet Lights (TL8)
+        Environment Reader (TL8)
+```
+
+---
+
+## Kig-Yar Shield Harness
+
+> [!note] LIGHT SKIRMISHER EQUIPMENT  
+> Kig-Yar commonly utilize lightweight armor systems designed for mobility and ranged engagements.
+
+```text
+Use Cloth Armor (TL10)
+    Add:
+        Environment Reader (TL8)
+```
+
+---
+
+## Unggoy Combat Harness
+
+> [!note] MASS-ISSUE INFANTRY EQUIPMENT  
+> Unggoy combat harnesses are designed around methane support systems and low-cost battlefield deployment.
+
+```text
+Use Vacc Suit (TL10)
+    Add:
+        Environment Reader (TL8)
+        Self-Sealing (TL11)
+```
+
+---
+
+## Mgalekgolo Assault Harness
+
+> [!danger] HEAVY ASSAULT ENTITY  
+> Mgalekgolo combat forms utilize bonded armor plating and integrated assault weapon systems.
+
+```text
+Use Heavy Battle Dress (TL13)
+    Add:
+        Environment Protection (Vacuum) (TL12)
+```
+
+---
+
+# Covenant & Banished Weapons
+
+> [!info] RECOVERED WEAPON SYSTEMS  
+> Covenant weaponry primarily utilizes superheated plasma, radioactive crystalline ammunition, or directed-energy systems.
+
+---
+
+## Type-25 Plasma Rifle
+
+> [!note] STANDARD COVENANT INFANTRY WEAPON  
+> Rapid-fire plasma weapon designed for sustained close- to medium-range engagements.
+
+```text
+Use Laser Carbine (TL11)
+	Add Auto 3
+```
+
+---
+
+## Type-25 Plasma Pistol
+
+> [!note] LIGHT DIRECTED-ENERGY SIDEARM  
+> Standard Covenant sidearm capable of both rapid fire and shield disruption.
+
+```text
+Use Laser Pistol
+```
+
+---
+
+## Posu'gelka-pattern Needler
+
+> [!danger] CRYSTALLINE TRACKING WEAPON  
+> Fires crystalline projectiles that embed into targets before detonating.
+
+```text
+Use Assault Pistol
+    Add Smart
+    Add AP 2
+    Increase Magazine to 26
+```
+
+---
+
+## Type-51 Carbine
+
+> [!note] PRECISION COVENANT RIFLE  
+> Covenant marksman weapon utilizing radioactive crystalline ammunition.
+
+```text
+Use Gauss Rifle
+    Add Scope
+    Remove Auto (Semi-Auto only)
+    Reduce Magazine to 18
+```
+
+---
+
+## Type-1 Energy Sword
+
+> [!danger] CLOSE-COMBAT ENERGY WEAPON  
+> Elite close-quarters weapon utilizing contained plasma blades.
+
+```text
+Use Arc-Field Weapon
+```
+
+---
+
+## Spiker
+
+> [!note] JIRALHANAE SPIKE WEAPON  
+> Fires large metal spikes using brute-force ballistic propulsion.
+
+```text
+Use Gauss Submachine Gun
+    Add AP 2
+    Add Bulky
+```
+
+---
+
+## Mangler
+
+> [!note] HEAVY SIDEARM  
+> Banished firearm designed for brutal close-range stopping power.
+
+```text
+Use Heavy Revolver
+    Add AP 2
+```
+
+---
+
+## Gravity Hammer
+
+> [!danger] HEAVY SHOCK WEAPON  
+> Massive melee weapon associated with Jiralhanae warlords and Banished shock troops.
+
+```text
+Use Gravity Hammer
+```
+
+---
+
+# Custom Halo Mechanics
+
+> [!warning] OPTIONAL RULES  
+> The following mechanics are custom systems designed to better emulate Halo gameplay and technology within Traveller. Referees should use discretion when applying these rules.
+
+---
+
+## Energy Shields
+
+> [!note] PERSONAL ENERGY SHIELDS  
+> Commonly utilized by Sangheili combat harnesses and MJOLNIR Powered Assault Armor.
+
+### Shield Rating
+
+Energy Shields provide additional temporary protection separate from normal armor.
+
+Typical Shield Ratings:
+
+- Sangheili Minor: 4
+    
+- Sangheili Major/Ultra: 6–8
+    
+- MJOLNIR GEN3: 8
+    
+
+### Shield Damage
+
+Damage is applied to shields before armor or characteristics.
+
+### Shield Recharge
+
+If a character avoids taking damage for one full combat round, their shields fully recharge at the beginning of their next turn.
+
+### Shield Collapse
+
+When shields reach 0:
+
+- Shield effects immediately fail
+    
+- Excess damage carries over normally
+    
+- Recharge cannot begin until the wearer avoids damage for one full combat round
+    
+
+### EMP / Ion Effects
+
+Referees may rule that EMP, ion, or electrical attacks temporarily disable shield recharge.
+
+---
+
+## Needler Supercombine
+
+> [!danger] CRYSTALLINE DETONATION  
+> Needler ammunition embeds itself into targets before violently detonating.
+
+### Supercombine Trigger
+
+If a target is hit by three or more Needler attacks within the same round:
+
+- The target immediately suffers an additional 3D damage
+    
+- Armor applies normally
+    
+
+### Notes
+
+- Supercombine damage occurs after the initial attacks resolve
+    
+- Targets killed by a Supercombine detonate violently
+    
+
+---
+
+## Active Camouflage
+
+> [!note] PHOTOREACTIVE STEALTH SYSTEMS  
+> Active camouflage bends light and reduces thermal signatures.
+
+### Effect
+
+Characters utilizing active camouflage:
+
+- Gain DM+2 to Stealth checks while stationary or moving slowly
+    
+- Reduce this bonus to DM+1 while moving quickly or attacking
+    
+
+### Detection
+
+Recon, Sensors, or motion tracking may reduce or negate camouflage bonuses at Referee discretion.
+
+---
+## Plasma Pistol Overcharge
+
+> [!danger] DIRECTED EMP DISCHARGE
+> Plasma Pistols are capable of releasing an overcharged plasma burst designed to disable shields, electronics, and vehicles.
+
+### Overcharge Attack
+A Plasma Pistol may spend one full Minor Action charging before firing an overcharged shot.
+
+### Effects
+If the attack successfully hits:
+
+- Energy Shields immediately collapse to 0
+- Shield recharge is disabled until the end of the target's next turn
+- Electronic systems may temporarily malfunction at Referee discretion
+
+### Vehicles & Electronics
+Against vehicles, drones, powered armor, or electronic systems:
+- Target suffers DM-2 to all actions for one combat round
+- Referee may rule certain systems temporarily shut down entirely
+
+### Limitations
+- After firing an overcharged shot, the weapon requires one round to cool before firing again
+# Referee Notes
+
+> [!info] DESIGN PHILOSOPHY  
+> Covenant and Banished equipment should feel dangerous, unfamiliar, and difficult to maintain compared to standard UNSC equipment.
+
+> [!note] FIELD RECOVERY  
+> Access to Covenant and Banished gear is intentionally limited. Most recovered systems require specialized maintenance, unfamiliar ammunition sources, or improvised repairs to remain operational.
